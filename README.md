@@ -1,4 +1,5 @@
 # Kitsu Web App
+动漫视频漫画导航
 
 [![Crowdin](https://badges.crowdin.net/kitsu-web/localized.svg)](https://crowdin.com/project/kitsu-web)
 ![Test Status](https://github.com/hummingbird-me/kitsu-web/workflows/Kitsu%20Test%20Suite/badge.svg)
